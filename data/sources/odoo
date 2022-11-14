@@ -1,0 +1,8 @@
+{
+    "slug": "odoo",
+    "logoUrl": "/sources/odoo.png",
+    "name": "Odoo",
+    "type": "Application",
+    "aliases": [
+    ]
+}
