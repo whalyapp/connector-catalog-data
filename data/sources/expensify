@@ -1,0 +1,8 @@
+{
+    "slug": "expensify",
+    "logoUrl": "/sources/expensify.png",
+    "name": "Expensify",
+    "type": "Application",
+    "aliases": [
+    ]
+}
