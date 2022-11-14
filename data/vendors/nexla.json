@@ -1,0 +1,26 @@
+{
+    "slug": "nexla",
+    "name": "Nexla",
+    "logoUrl": "/vendors/nexla.png",
+    "type": "ETL",
+    "isOpenSource": false,
+    "website": "https://www.nexla.com/",
+    "sources": [
+        "amazon-seller-partner",
+        "affinity",
+        "aftership",
+        "agile-crm",
+        "amazon-s3",
+        "asana",
+        "azure-blob-storage",
+        "azure-data-lake",
+        "azure-synapse-analytics",
+        "bamboohr",
+        "bazaarvoice",
+      
+        "mixpanel",
+        "amplitude",
+        "stripe",
+        "..."
+    ]
+}
