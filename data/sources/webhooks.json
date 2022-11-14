@@ -3,5 +3,7 @@
     "logoUrl": "",
     "name": "Webhooks",
     "type": "Events",
-    "aliases": []
+    "aliases": [
+    "webhook"
+    ]
 }
