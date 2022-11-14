@@ -1,0 +1,8 @@
+{
+    "slug": "bazaarvoice",
+    "logoUrl": "/sources/bazaarvoice.png",
+    "name": "Bazaarvoice",
+    "type": "Application",
+    "aliases": [
+    ]
+}
