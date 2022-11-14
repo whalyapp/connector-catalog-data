@@ -1,0 +1,8 @@
+{
+    "slug": "news",
+    "logoUrl": "/sources/news.png",
+    "name": "News",
+    "type": "Application",
+    "aliases": [
+    ]
+}
