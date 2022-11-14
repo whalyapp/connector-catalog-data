@@ -24,7 +24,7 @@ There is 2 main folders in this repository:
 
 ### Listings format
 
-In the `./data` directory, we have 2 main collections of JSON:
+In the `./data` directory, we have 2 main collections of JSON to manage listings:
 
 #### 1. Sources
 
@@ -42,7 +42,7 @@ Each JSON should follow the below format:
     "name": string,
     // Type of the Data source
     "type": "Application" | "Database" | "File" | "Events",
-    // Aliases of the source that can be used vendors in their listings
+    // Aliases of the source that can be used in vendors listings
     "aliases": string[]
 }
 ```
@@ -57,7 +57,7 @@ Example:
     "aliases": [
         "Google Analytics v4", 
         "Google Analytics 4"
-        ]
+    ]
 }
 ```
 
@@ -104,12 +104,12 @@ Example:
 
 ### Adding a new Vendor
 
-To add a new vendor, 2 steps are necassary:
+To add a new vendor, 2 steps are necessary:
 1. Create a new Vendor listing in `./data/vendors`
 2. Check that each of the source defined in the vendor listing is matching a source listing.
 
 A helper tool will be made shortly avaible to help you check that a vendor entry is matching with all declared sources.
 
 If there are sources declared in the vendor listing that are not matching any existing source listing, either:
-a. Find the source listing in `./data/sources` that should have matched and add an `aliases` entry with the value used in the vendor listing (i.e the value entered in the `sources` array of the vendor file)
-b. Create a new source listing (e.g. a new JSON file) in `./data/sources`
+1. Find the source listing in `./data/sources` that should have matched and add an `aliases` entry with the value used in the vendor listing (i.e the value entered in the `sources` array of the vendor file for this source)
+2. Create a new source listing (e.g. a new JSON file) in `./data/sources` with the appropriate `slug` and `aliases`
