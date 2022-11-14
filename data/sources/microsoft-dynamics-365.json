@@ -3,5 +3,7 @@
     "logoUrl": "/sources/microsoft.jpeg",
     "name": "Microsoft Dynamics 365",
     "type": "Application",
-    "aliases": []
+    "aliases": [
+    "microsoft-dynamics"
+    ]
 }
