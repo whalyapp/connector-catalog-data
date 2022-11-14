@@ -3,5 +3,7 @@
     "logoUrl": "/sources/microsoft.jpeg",
     "name": "Microsoft SQL Server",
     "type": "Application",
-    "aliases": []
+    "aliases": [
+    "microsoft-sql"
+    ]
 }
