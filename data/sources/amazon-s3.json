@@ -1,0 +1,7 @@
+{
+    "slug": "amazon-s3",
+    "logoUrl": "/sources/s3.png",
+    "name": "Amazon S3",
+    "type": "File",
+    "aliases": []
+}

@@ -1,0 +1,7 @@
+{
+    "slug": "launchdarkly",
+    "logoUrl": "/sources/launchdarkly.png",
+    "name": "LaunchDarkly",
+    "type": "Application",
+    "aliases": []
+}

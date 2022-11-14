@@ -1,0 +1,7 @@
+{
+    "slug": "amazon-cloudfront",
+    "logoUrl": "/sources/amazon.jpeg",
+    "name": "Amazon Cloudfront",
+    "type": "Application",
+    "aliases": []
+}

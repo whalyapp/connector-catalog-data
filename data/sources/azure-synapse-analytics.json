@@ -1,0 +1,7 @@
+{
+    "slug": "azure-synapse-analytics",
+    "logoUrl": "/sources/azure.png",
+    "name": "Azure Synapse Analytics",
+    "type": "Database",
+    "aliases": []
+}

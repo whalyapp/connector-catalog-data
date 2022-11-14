@@ -1,0 +1,7 @@
+{
+    "slug": "eventbrite",
+    "logoUrl": "/sources/eventbrite.png",
+    "name": "Eventbrite",
+    "type": "Application",
+    "aliases": []
+}

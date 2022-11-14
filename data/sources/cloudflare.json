@@ -1,0 +1,7 @@
+{
+    "slug": "cloudflare",
+    "logoUrl": "/sources/cloudflare.png",
+    "name": "Cloudflare",
+    "type": "Application",
+    "aliases": []
+}

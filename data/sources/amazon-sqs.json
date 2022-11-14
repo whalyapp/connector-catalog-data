@@ -1,0 +1,7 @@
+{
+    "slug": "amazon-sqs",
+    "logoUrl": "/sources/amazon.jpeg",
+    "name": "Amazon SQS",
+    "type": "Events",
+    "aliases": []
+}

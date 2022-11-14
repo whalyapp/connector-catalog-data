@@ -1,0 +1,7 @@
+{
+    "slug": "google-bigquery",
+    "logoUrl": "/sources/google.png",
+    "name": "Google BigQuery",
+    "type": "Application",
+    "aliases": []
+}

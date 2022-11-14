@@ -1,0 +1,7 @@
+{
+    "slug": "usgs-earthquake-catalog",
+    "logoUrl": "/sources/usgs-earthquake-catalog.png",
+    "name": "USGS Earthquake Catalog",
+    "type": "Application",
+    "aliases": []
+}

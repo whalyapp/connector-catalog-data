@@ -1,0 +1,7 @@
+{
+    "slug": "sendgrid",
+    "logoUrl": "/sources/sendgrid.png",
+    "name": "SendGrid",
+    "type": "Application",
+    "aliases": []
+}

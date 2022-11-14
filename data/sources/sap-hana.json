@@ -1,0 +1,7 @@
+{
+    "slug": "sap-hana",
+    "logoUrl": "/sources/sap.png",
+    "name": "SAP HANA",
+    "type": "Database",
+    "aliases": []
+}

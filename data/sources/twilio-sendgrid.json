@@ -1,0 +1,7 @@
+{
+    "slug": "twilio-sendgrid",
+    "logoUrl": "/sources/sendgrid.png",
+    "name": "Twilio SendGrid",
+    "type": "Application",
+    "aliases": []
+}

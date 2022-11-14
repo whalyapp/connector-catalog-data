@@ -1,0 +1,7 @@
+{
+    "slug": "jira",
+    "logoUrl": "/sources/jira.png",
+    "name": "Jira",
+    "type": "Application",
+    "aliases": []
+}

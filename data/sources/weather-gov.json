@@ -1,0 +1,7 @@
+{
+    "slug": "weather-gov",
+    "logoUrl": "/sources/weather-gov.png",
+    "name": "Weather.gov",
+    "type": "Application",
+    "aliases": []
+}

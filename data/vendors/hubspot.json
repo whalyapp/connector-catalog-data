@@ -1,0 +1,11 @@
+{
+    "slug": "hubspot",
+    "name": "Hubspot",
+    "logoUrl": "/vendors/hubspot.png",
+    "type": "SaaS",
+    "isOpenSource": false,
+    "website": "https://www.hubspot.com/",
+    "sources": [
+        "hubspot"
+    ]
+}

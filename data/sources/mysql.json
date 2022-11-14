@@ -1,0 +1,7 @@
+{
+    "slug": "mysql",
+    "logoUrl": "/sources/mysql.png",
+    "name": "MySQL",
+    "type": "Database",
+    "aliases": []
+}

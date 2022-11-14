@@ -1,0 +1,7 @@
+{
+    "slug": "new-relic",
+    "logoUrl": "/sources/newrelic.png",
+    "name": "New Relic",
+    "type": "Application",
+    "aliases": []
+}

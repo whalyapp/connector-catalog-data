@@ -1,0 +1,11 @@
+{
+    "slug": "google-analytics-v4",
+    "name": "Google Analytics V4",
+    "logoUrl": "/vendors/ga4.png",
+    "type": "SaaS",
+    "isOpenSource": false,
+    "website": "https://analytics.google.com",
+    "sources": [
+        "google-analytics-v4"
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "slug": "mixpanel",
+    "name": "MixPanel",
+    "logoUrl": "/vendors/mixpanel.png",
+    "type": "SaaS",
+    "isOpenSource": false,
+    "website": "https://mixpanel.com/",
+    "sources": [
+        "mixpanel"
+    ]
+}

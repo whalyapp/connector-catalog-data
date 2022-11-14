@@ -1,0 +1,7 @@
+{
+    "slug": "datadog",
+    "logoUrl": "/sources/datadog.png",
+    "name": "Datadog",
+    "type": "Application",
+    "aliases": []
+}

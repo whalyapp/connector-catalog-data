@@ -1,0 +1,7 @@
+{
+    "slug": "snowplow",
+    "logoUrl": "/sources/snowplow.png",
+    "name": "Snowplow",
+    "type": "Events",
+    "aliases": []
+}

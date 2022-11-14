@@ -1,0 +1,11 @@
+{
+    "slug": "salesforce",
+    "name": "Salesforce",
+    "logoUrl": "/vendors/salesforce.png",
+    "type": "SaaS",
+    "isOpenSource": false,
+    "website": "https://www.salesforce.com/eu/",
+    "sources": [
+        "salesforce"
+    ]
+}

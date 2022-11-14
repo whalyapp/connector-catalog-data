@@ -1,10 +1,21 @@
+/**
+ * This contains the typescript types of the parsed data from the catalog
+ * 
+ * Those data structure are not matching exactly the types of the JSONs as some
+ * calculation / enrichments / ... are done.
+ * 
+ * Those types are used:
+ * - To generate the frontend
+ * - For some helpers tools to be written in typescript
+ */
+
+import { SourceType, VendorType } from "./enum";
+
+// Single object to store all the information of the catalog
 export interface ICatalog {
     vendors: IVendor[],
     sources: ISource[]
 }
-
-export type VendorType = "ETL" | "BI" | "SaaS";
-export type VendorPricing = "$$" | "$$$" | "$$$$" | "Free" | "Unknown";
 
 /**
  * A Vendor is a business entity that provides connectors to sync Sources.
@@ -17,11 +28,8 @@ export interface IVendor {
     "logoUrl": string,
     "type": VendorType,
     "isOpenSource": boolean,
-    "pricing": VendorPricing,
     "website": string
 }
-
-export type SourceType = "Application" | "Database" | "File" | "Events";
 
 /**
  * A Source is a system producing data from which we can extract it.

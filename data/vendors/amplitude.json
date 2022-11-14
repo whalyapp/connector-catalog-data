@@ -1,0 +1,11 @@
+{
+    "slug": "amplitude",
+    "name": "Amplitude",
+    "logoUrl": "/vendors/amplitude.png",
+    "type": "SaaS",
+    "isOpenSource": false,
+    "website": "https://amplitude.com/",
+    "sources": [
+        "amplitude"
+    ]
+}

@@ -1,0 +1,7 @@
+{
+    "slug": "pagerduty",
+    "logoUrl": "/sources/pagerduty.png",
+    "name": "PagerDuty",
+    "type": "Application",
+    "aliases": []
+}

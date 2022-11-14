@@ -1,0 +1,7 @@
+{
+    "slug": "sentry",
+    "logoUrl": "/sources/sentry.png",
+    "name": "Sentry",
+    "type": "Application",
+    "aliases": []
+}

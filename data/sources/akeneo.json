@@ -1,0 +1,7 @@
+{
+    "slug": "akeneo",
+    "logoUrl": "/sources/akeneo.png",
+    "name": "Akeneo",
+    "type": "Application",
+    "aliases": []
+}

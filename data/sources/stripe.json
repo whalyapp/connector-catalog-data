@@ -1,0 +1,7 @@
+{
+    "slug": "stripe",
+    "logoUrl": "/sources/stripe.png",
+    "name": "Stripe",
+    "type": "Application",
+    "aliases": []
+}
