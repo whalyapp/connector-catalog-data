@@ -1,0 +1,8 @@
+{
+    "slug": "scalyr",
+    "logoUrl": "/sources/scalyr.png",
+    "name": "Scalyr",
+    "type": "Application",
+    "aliases": [
+    ]
+}
