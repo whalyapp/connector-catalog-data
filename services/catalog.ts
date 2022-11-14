@@ -1,13 +1,15 @@
-import fs from "fs";
+import path from "path";
 import { SourceType, VendorType } from "../types/enum";
 import { ICatalog, ISource, IVendor } from "../types/parsed";
-import { IRawSource, IRawVendor } from "../types/raw";
 import { getRawSources, getRawVendors } from "./fileReader";
 
-const parseCatalogInfos = (): ICatalog => {
+const parseCatalogInfos = (rootPath: string): ICatalog => {
 
-    const rawSources = getRawSources();
-    const rawVendors = getRawVendors();
+    const SOURCE_DATA_DIR = path.join(rootPath, `/data/sources`);
+    const VENDOR_DATA_DIR = path.join(rootPath, `/data/vendors`);
+
+    const rawSources = getRawSources(SOURCE_DATA_DIR);
+    const rawVendors = getRawVendors(VENDOR_DATA_DIR);
 
     const vendors: IVendor[] = rawVendors.map(rawVendor => {
         const parseVendorType = (value: string): VendorType => {
@@ -78,4 +80,4 @@ const parseCatalogInfos = (): ICatalog => {
     }
 }
 
-export const catalogData: ICatalog = parseCatalogInfos()
+export const catalogData: (rootPath: string) => ICatalog = (rootPath: string) => parseCatalogInfos(rootPath)

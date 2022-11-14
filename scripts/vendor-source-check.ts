@@ -1,4 +1,5 @@
 import fs from "fs";
+import path from "path";
 import { getRawSources } from "../services/fileReader";
 import { IRawSource, IRawVendor } from "../types/raw";
 
@@ -26,7 +27,7 @@ const vendorFileContent = fs.readFileSync(vendorFilePath);
 
 const vendorFile: IRawVendor = JSON.parse(vendorFileContent.toString());
 
-const rawSources: IRawSource[] = getRawSources();
+const rawSources: IRawSource[] = getRawSources(path.join(__dirname, '..', 'data/sources'));
 
 const matchedSources: string[] = [];
 const umatchedSources: string[] = [];
