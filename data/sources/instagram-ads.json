@@ -3,5 +3,7 @@
     "logoUrl": "",
     "name": "Instagram Ads",
     "type": "Application",
-    "aliases": []
+    "aliases": [
+    "instagram"
+    ]
 }
