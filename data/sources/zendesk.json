@@ -1,0 +1,7 @@
+{
+    "slug": "zendesk",
+    "logoUrl": "/sources/zendesk.png",
+    "name": "Zendesk",
+    "type": "Application",
+    "aliases": []
+}

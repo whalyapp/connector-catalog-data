@@ -1,0 +1,7 @@
+{
+    "slug": "adobe-analytics-data-feed",
+    "logoUrl": "/sources/adobe.png",
+    "name": "Adobe Analytics Data Feed",
+    "type": "Application",
+    "aliases": []
+}

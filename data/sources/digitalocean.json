@@ -1,0 +1,7 @@
+{
+    "slug": "digitalocean",
+    "logoUrl": "/sources/digitalocean.png",
+    "name": "DigitalOcean",
+    "type": "Application",
+    "aliases": []
+}

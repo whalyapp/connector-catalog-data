@@ -1,0 +1,7 @@
+{
+    "slug": "braintree",
+    "logoUrl": "/sources/braintree.png",
+    "name": "Braintree",
+    "type": "Application",
+    "aliases": []
+}

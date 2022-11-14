@@ -1,0 +1,7 @@
+{
+    "slug": "mongodb",
+    "logoUrl": "/sources/mongodb.png",
+    "name": "MongoDB",
+    "type": "Database",
+    "aliases": []
+}

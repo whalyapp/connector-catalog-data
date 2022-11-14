@@ -1,0 +1,7 @@
+{
+    "slug": "azure-blob-storage",
+    "logoUrl": "/sources/azure.png",
+    "name": "Azure Blob Storage",
+    "type": "File",
+    "aliases": []
+}

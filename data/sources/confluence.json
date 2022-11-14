@@ -1,0 +1,7 @@
+{
+    "slug": "confluence",
+    "logoUrl": "/sources/atlassian.png",
+    "name": "Confluence",
+    "type": "Application",
+    "aliases": []
+}

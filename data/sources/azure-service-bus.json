@@ -1,0 +1,7 @@
+{
+    "slug": "azure-service-bus",
+    "logoUrl": "/sources/azure.png",
+    "name": "Azure Service Bus",
+    "type": "Events",
+    "aliases": []
+}

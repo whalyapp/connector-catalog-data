@@ -1,0 +1,7 @@
+{
+    "slug": "snyk",
+    "logoUrl": "/sources/snyk.png",
+    "name": "Snyk",
+    "type": "Application",
+    "aliases": []
+}

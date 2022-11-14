@@ -1,0 +1,11 @@
+{
+    "slug": "braze",
+    "name": "Braze",
+    "logoUrl": "/vendors/braze.webp",
+    "type": "SaaS",
+    "isOpenSource": false,
+    "website": "https://www.braze.com/",
+    "sources": [
+        "braze"
+    ]
+}

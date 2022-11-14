@@ -1,0 +1,7 @@
+{
+    "slug": "opsgenie",
+    "logoUrl": "/sources/opsgenie.png",
+    "name": "Opsgenie",
+    "type": "Application",
+    "aliases": []
+}

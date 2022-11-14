@@ -1,0 +1,7 @@
+{
+    "slug": "amazon-kinesis-firehose",
+    "logoUrl": "/sources/amazon.jpeg",
+    "name": "Amazon Kinesis Firehose",
+    "type": "Events",
+    "aliases": []
+}

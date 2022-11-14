@@ -1,0 +1,14 @@
+{
+    "slug": "google-datastream",
+    "name": "Google Datastream",
+    "logoUrl": "/vendors/datastream.png",
+    "type": "ETL",
+    "isOpenSource": false,
+    "website": "https://cloud.google.com/datastream",
+    "sources": [
+        "postgresql",
+        "oracle",
+        "mysql",
+        "alloydb-for-postgresql"
+    ]
+}

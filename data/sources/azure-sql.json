@@ -1,0 +1,7 @@
+{
+    "slug": "azure-sql",
+    "logoUrl": "/sources/azure.png",
+    "name": "Azure SQL",
+    "type": "Database",
+    "aliases": []
+}

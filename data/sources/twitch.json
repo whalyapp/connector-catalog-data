@@ -1,0 +1,7 @@
+{
+    "slug": "twitch",
+    "logoUrl": "/sources/twitch.png",
+    "name": "Twitch",
+    "type": "Application",
+    "aliases": []
+}

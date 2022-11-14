@@ -1,0 +1,7 @@
+{
+    "slug": "sendgrid-webhook",
+    "logoUrl": "/sources/sendgrid.png",
+    "name": "SendGrid Webhook",
+    "type": "Application",
+    "aliases": []
+}

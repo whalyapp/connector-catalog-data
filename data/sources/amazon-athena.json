@@ -1,0 +1,7 @@
+{
+    "slug": "amazon-athena",
+    "logoUrl": "/sources/amazon.jpeg",
+    "name": "Amazon Athena",
+    "type": "Application",
+    "aliases": []
+}

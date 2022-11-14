@@ -1,0 +1,7 @@
+{
+    "slug": "amazon-aurora",
+    "logoUrl": "/sources/amazon.jpeg",
+    "name": "Amazon Aurora",
+    "type": "Application",
+    "aliases": []
+}

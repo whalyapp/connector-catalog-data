@@ -1,0 +1,7 @@
+{
+    "slug": "zenhub",
+    "logoUrl": "/sources/zenhub.png",
+    "name": "ZenHub",
+    "type": "Application",
+    "aliases": []
+}
