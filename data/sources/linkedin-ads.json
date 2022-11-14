@@ -3,5 +3,7 @@
     "logoUrl": "/sources/linkedin.png",
     "name": "LinkedIn Ads",
     "type": "Application",
-    "aliases": []
+    "aliases": [
+    "linkedin"
+    ]
 }
