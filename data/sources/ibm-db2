@@ -1,0 +1,8 @@
+{
+    "slug": "ibm-db2",
+    "logoUrl": "/sources/ibm-db2.png",
+    "name": "IBM DB2",
+    "type": "Database",
+    "aliases": [
+    ]
+}
