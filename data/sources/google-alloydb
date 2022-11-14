@@ -1,0 +1,8 @@
+{
+    "slug": "google-alloydb",
+    "logoUrl": "/sources/google-alloydb.png",
+    "name": "Google Alloydb",
+    "type": "Database",
+    "aliases": [
+    ]
+}
