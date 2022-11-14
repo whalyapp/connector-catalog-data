@@ -1,0 +1,8 @@
+{
+    "slug": "jms",
+    "logoUrl": "/sources/jms.png",
+    "name": "JMS",
+    "type": "Events",
+    "aliases": [
+    ]
+}
