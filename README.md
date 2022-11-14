@@ -11,8 +11,8 @@ Ideally, a script should be built by each vendor to output the current state of 
 ## Contributing
 
 There can be 2 main ways of contributing:
-a. By listing missing vendors or point to inaccuracies in the data through Issues that [can be opened here](https://github.com/whalyapp/connector-catalog-data/issues).
-b. By opening a Pull Request containing [updates on the existing state of the catalog here](https://github.com/whalyapp/connector-catalog-data/pulls).
+1. By listing missing vendors or point to inaccuracies in the data through Issues that [can be opened here](https://github.com/whalyapp/connector-catalog-data/issues).
+2. By opening a Pull Request containing [updates on the existing state of the catalog here](https://github.com/whalyapp/connector-catalog-data/pulls).
 
 The data format of this repository has been designed so that it's easy for Vendors to uploads their connector listings by owning their own vendor JSON file.
 
@@ -108,7 +108,13 @@ To add a new vendor, 2 steps are necessary:
 1. Create a new Vendor listing in `./data/vendors`
 2. Check that each of the source defined in the vendor listing is matching a source listing.
 
-A helper tool will be made shortly avaible to help you check that a vendor entry is matching with all declared sources.
+In order to check that each of the vendor source items are matching an existing source definition, you can run the below command ⤵️
+
+```sh
+npx ts-node scripts/vendor-source-check.ts data/vendors/my-vendor.json
+```
+
+Note: It will require Node to be installed on your system to run.
 
 If there are sources declared in the vendor listing that are not matching any existing source listing, either:
 1. Find the source listing in `./data/sources` that should have matched and add an `aliases` entry with the value used in the vendor listing (i.e the value entered in the `sources` array of the vendor file for this source)
