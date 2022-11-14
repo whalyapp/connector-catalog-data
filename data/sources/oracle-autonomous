@@ -1,0 +1,8 @@
+{
+    "slug": "oracle-autonomous",
+    "logoUrl": "/sources/oracle-autonomous.png",
+    "name": "Oracle Autonomous Database",
+    "type": "Database",
+    "aliases": [
+    ]
+}
