@@ -4,7 +4,6 @@
     "logoUrl": "/vendors/rivery.png",
     "type": "ETL",
     "isOpenSource": false,
-    "pricing": "$$$",
     "website": "https://rivery.io/",
     "sources": [
         "hubspot",

@@ -4,7 +4,6 @@
     "logoUrl": "/vendors/stripe.png",
     "type": "SaaS",
     "isOpenSource": false,
-    "pricing": "$$",
     "website": "https://stripe.com/",
     "sources": [
         "stripe"
