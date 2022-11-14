@@ -1,0 +1,8 @@
+{
+    "slug": "zillow",
+    "logoUrl": "/sources/zillow.png",
+    "name": "Zillow",
+    "type": "Application",
+    "aliases": [
+    ]
+}
