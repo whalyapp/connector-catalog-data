@@ -2,7 +2,7 @@
     "slug": "soapapi",
     "logoUrl": "",
     "name": "SOAP API",
-    "type": "API",
+    "type": "Events",
     "aliases": [
     ]
 }

@@ -2,7 +2,7 @@
     "slug": "restapi",
     "logoUrl": "",
     "name": "REST API",
-    "type": "API",
+    "type": "Events",
     "aliases": [
     ]
 }
