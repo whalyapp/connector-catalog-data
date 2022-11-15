@@ -3,5 +3,8 @@
     "logoUrl": "/sources/google-ads.png",
     "name": "Google Ads",
     "type": "Application",
-    "aliases": []
+    "aliases": [
+        "adwords",
+        "googleads"
+    ]
 }

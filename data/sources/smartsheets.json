@@ -3,5 +3,7 @@
     "logoUrl": "",
     "name": "Smartsheets",
     "type": "Application",
-    "aliases": []
+    "aliases": [
+        "smartsheet"
+    ]
 }

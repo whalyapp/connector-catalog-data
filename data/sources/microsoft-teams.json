@@ -3,5 +3,7 @@
     "logoUrl": "/sources/microsoft.jpeg",
     "name": "Microsoft Teams",
     "type": "Application",
-    "aliases": []
+    "aliases": [
+        "ms-teams"
+    ]
 }

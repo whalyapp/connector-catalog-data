@@ -3,5 +3,7 @@
     "logoUrl": "/sources/postgresql.png",
     "name": "PostgreSQL",
     "type": "Database",
-    "aliases": []
+    "aliases": [
+        "postgres"
+    ]
 }

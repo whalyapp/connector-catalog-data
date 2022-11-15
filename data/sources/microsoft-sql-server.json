@@ -4,6 +4,7 @@
     "name": "Microsoft SQL Server",
     "type": "Application",
     "aliases": [
-    "microsoft-sql"
+    "microsoft-sql",
+    "mssql"
     ]
 }

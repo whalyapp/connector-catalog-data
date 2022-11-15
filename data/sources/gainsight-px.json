@@ -4,6 +4,7 @@
     "name": "Gainsight PX",
     "type": "Application",
     "aliases": [
-    "gainsight"
+        "gainsight",
+        "gainsightpx"
     ]
 }

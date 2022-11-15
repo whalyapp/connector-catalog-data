@@ -3,5 +3,7 @@
     "logoUrl": "",
     "name": "3PL Central",
     "type": "Application",
-    "aliases": []
+    "aliases": [
+        "3plcentral"
+    ]
 }
