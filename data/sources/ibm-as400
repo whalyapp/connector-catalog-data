@@ -1,0 +1,8 @@
+{
+    "slug": "ibm-as400",
+    "logoUrl": "/sources/ibm-as400.png",
+    "name": "IBM AS400",
+    "type": "Database",
+    "aliases": [
+    ]
+}

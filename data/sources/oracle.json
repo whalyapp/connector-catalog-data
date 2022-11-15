@@ -3,5 +3,7 @@
     "logoUrl": "/sources/oracle.jpeg",
     "name": "Oracle",
     "type": "Database",
-    "aliases": []
+    "aliases": [
+    "oracle-db"
+    ]
 }

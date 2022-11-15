@@ -1,0 +1,8 @@
+{
+    "slug": "google-pubsub",
+    "logoUrl": "/sources/google-pubsub.png",
+    "name": "Google Pub/Sub",
+    "type": "Streaming",
+    "aliases": [
+    ]
+}

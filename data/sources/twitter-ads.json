@@ -3,5 +3,7 @@
     "logoUrl": "",
     "name": "Twitter Ads",
     "type": "Application",
-    "aliases": []
+    "aliases": [
+    "twitter"
+    ]
 }

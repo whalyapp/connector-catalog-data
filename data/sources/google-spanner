@@ -1,0 +1,8 @@
+{
+    "slug": "google-spanner",
+    "logoUrl": "/sources/google-spanner.png",
+    "name": "Google Spanner",
+    "type": "Database",
+    "aliases": [
+    ]
+}

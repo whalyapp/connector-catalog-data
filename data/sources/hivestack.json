@@ -3,5 +3,7 @@
     "logoUrl": "",
     "name": "Hivestack",
     "type": "Application",
-    "aliases": []
+    "aliases": [
+    "hive"
+    ]
 }

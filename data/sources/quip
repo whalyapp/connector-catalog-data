@@ -1,0 +1,8 @@
+{
+    "slug": "quip",
+    "logoUrl": "/sources/quip.png",
+    "name": "Quip",
+    "type": "Application",
+    "aliases": [
+    ]
+}

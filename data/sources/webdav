@@ -1,0 +1,8 @@
+{
+    "slug": "webdav",
+    "logoUrl": "/sources/webdav.png",
+    "name": "Webdav",
+    "type": "Application",
+    "aliases": [
+    ]
+}

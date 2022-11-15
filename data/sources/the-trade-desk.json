@@ -3,5 +3,7 @@
     "logoUrl": "",
     "name": "The Trade Desk",
     "type": "Application",
-    "aliases": []
+    "aliases": [
+    "thetradedesk"
+    ]
 }

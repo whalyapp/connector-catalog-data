@@ -3,5 +3,7 @@
     "logoUrl": "/sources/zoho.png",
     "name": "Zoho CRM",
     "type": "Application",
-    "aliases": []
+    "aliases": [
+    "zoho"
+    ]
 }

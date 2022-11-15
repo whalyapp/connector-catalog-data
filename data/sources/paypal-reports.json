@@ -3,5 +3,7 @@
     "logoUrl": "",
     "name": "PayPal Reports",
     "type": "Application",
-    "aliases": []
+    "aliases": [
+    "paypal"
+    ]
 }

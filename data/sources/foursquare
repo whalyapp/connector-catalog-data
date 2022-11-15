@@ -1,0 +1,8 @@
+{
+    "slug": "foursquare",
+    "logoUrl": "/sources/foursquare.png",
+    "name": "Foursquare",
+    "type": "Application",
+    "aliases": [
+    ]
+}

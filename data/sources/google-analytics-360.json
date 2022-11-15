@@ -3,5 +3,7 @@
     "logoUrl": "/sources/ga4.png",
     "name": "Google Analytics 360",
     "type": "Application",
-    "aliases": []
+    "aliases": [
+    "google-analytics"
+    ]
 }

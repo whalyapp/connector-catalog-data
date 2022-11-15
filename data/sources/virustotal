@@ -1,0 +1,8 @@
+{
+    "slug": "virustotal",
+    "logoUrl": "/sources/virustotal.png",
+    "name": "Virustotal",
+    "type": "Application",
+    "aliases": [
+    ]
+}

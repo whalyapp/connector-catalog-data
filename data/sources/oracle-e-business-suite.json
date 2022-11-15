@@ -3,5 +3,7 @@
     "logoUrl": "/sources/oracle.jpeg",
     "name": "Oracle E-Business Suite",
     "type": "Application",
-    "aliases": []
+    "aliases": [
+    "oracle-netsuite"
+    ]
 }

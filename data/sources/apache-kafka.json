@@ -3,5 +3,7 @@
     "logoUrl": "",
     "name": "Apache Kafka",
     "type": "Events",
-    "aliases": []
+    "aliases": [
+    "kafka"
+    ]
 }

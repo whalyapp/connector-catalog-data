@@ -3,5 +3,7 @@
     "logoUrl": "",
     "name": "YouTube Analytics",
     "type": "Application",
-    "aliases": []
+    "aliases": [
+    "youtube"
+    ]
 }
