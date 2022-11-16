@@ -3,5 +3,7 @@
     "logoUrl": "/sources/amazon.jpeg",
     "name": "Amazon Ads",
     "type": "Application",
-    "aliases": []
+    "aliases": [
+        "amazon-advertising"
+    ]
 }

@@ -3,5 +3,7 @@
     "logoUrl": "",
     "name": "Active Campaign",
     "type": "Application",
-    "aliases": []
+    "aliases": [
+        "activecampaign"
+    ]
 }

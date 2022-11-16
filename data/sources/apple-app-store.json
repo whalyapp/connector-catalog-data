@@ -3,5 +3,7 @@
     "logoUrl": "/sources/apple.png",
     "name": "Apple App Store",
     "type": "Application",
-    "aliases": []
+    "aliases": [
+        "appstore"
+    ]
 }
