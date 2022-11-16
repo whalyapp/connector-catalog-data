@@ -1,0 +1,9 @@
+{
+    "slug": "universaldata",
+    "name": "Universal Data",
+    "logoUrl": "/vendors/universaldata.png",
+    "type": "ETL",
+    "isOpenSource": false,
+    "website": "https://universaldata.io",
+    "sources": ["notion", "airtable", "typeform", "teamtailor"]
+}
