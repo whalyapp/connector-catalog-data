@@ -1,6 +1,6 @@
 {
     "slug": "posthog",
-    "logoUrl": "",
+    "logoUrl": "/sources/posthog.png",
     "name": "PostHog",
     "type": "Application",
     "aliases": []
