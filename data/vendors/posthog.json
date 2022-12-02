@@ -1,0 +1,32 @@
+{
+    "slug": "posthog",
+    "name": "PostHog",
+    "logoUrl": "/vendors/posthog.png",
+    "type": "SaaS",
+    "isOpenSource": false,
+    "website": "https://posthog.com",
+    "sources": [
+        "posthog",
+        "stripe",
+        "bigquery",
+        "databricks",
+        "google-cloud-storage",
+        "postgresql",
+        "redshift",
+        "rudderstack",
+        "amazone-s3",
+        "snowflake",
+        "salesforce",
+        "amazon-kinesis-firehose",
+        "google-pubsub",
+        "customer-io",
+        "intercom",
+        "segment",
+        "twilio",
+        "twilio-sendgrid",
+        "zendesk",
+        "zapier",
+        "sentry",
+        "hubspot"
+    ]
+}
