@@ -1,0 +1,15 @@
+{
+    "slug": "popsink",
+    "name": "Popsink",
+    "logoUrl": "/vendors/popsink.svg",
+    "type": "SaaS",
+    "isOpenSource": false,
+    "website": "https://www.popsink.com/",
+    "sources": [
+        "apache-kafka",
+        "postgresql",
+        "mysql",
+        "mongodb",
+        "azure-event-hubs"
+    ]
+}
