@@ -1,0 +1,20 @@
+{
+    "slug": "octolis",
+    "name": "octolis",
+    "logoUrl": "/vendors/octolis.png",
+    "type": "Saas",
+    "isOpenSource": false,
+    "website": "https://www.octolis.com/",
+    "sources": [
+        "braze",
+        "facebook-ads",
+        "google-sheets",
+        "shopify",
+        "sendinblue",
+        "sftp",
+        "snowflake",
+        "bigquery",
+        "postgresql",
+        "webhooks",
+    ]
+}
