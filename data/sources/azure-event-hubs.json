@@ -2,6 +2,6 @@
     "slug": "azure-event-hubs",
     "logoUrl": "/sources/azure.png",
     "name": "Azure Event Hubs",
-    "type": "Message",
+    "type": "Events",
     "aliases": []
 }
