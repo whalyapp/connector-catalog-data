@@ -1,6 +1,6 @@
 {
     "slug": "brandwatch",
-    "logoUrl": "",
+    "logoUrl": "/sources/brandwatch.png",
     "name": "Brandwatch",
     "type": "Application",
     "aliases": []

@@ -1,6 +1,6 @@
 {
     "slug": "tiktok",
-    "logoUrl": "",
+    "logoUrl": "/sources/tiktok.png",
     "name": "TikTok",
     "type": "Application",
     "aliases": []

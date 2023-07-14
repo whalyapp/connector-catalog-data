@@ -1,9 +1,9 @@
 {
     "slug": "the-trade-desk",
-    "logoUrl": "",
+    "logoUrl": "/sources/the-trade-desk.png",
     "name": "The Trade Desk",
     "type": "Application",
     "aliases": [
-    "thetradedesk"
+        "thetradedesk"
     ]
 }
