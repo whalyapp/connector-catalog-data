@@ -148,6 +148,7 @@
         "reddit-ads",
         "redis",
         "redshift",
+        "restapi",
         "revcontent",
         "sage-intacct",
         "sailthru",

@@ -1,6 +1,6 @@
 {
     "slug": "netsuite",
-    "logoUrl": "",
+    "logoUrl": "/sources/netsuite.png",
     "name": "NetSuite",
     "type": "Application",
     "aliases": []
