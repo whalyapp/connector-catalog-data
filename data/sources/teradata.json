@@ -1,6 +1,6 @@
 {
     "slug": "teradata",
-    "logoUrl": "",
+    "logoUrl": "/sources/teradata.png",
     "name": "Teradata",
     "type": "Application",
     "aliases": []

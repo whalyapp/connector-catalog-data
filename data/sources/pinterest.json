@@ -1,6 +1,6 @@
 {
     "slug": "pinterest",
-    "logoUrl": "",
+    "logoUrl": "/sources/pinterest.png",
     "name": "Pinterest",
     "type": "Application",
     "aliases": []

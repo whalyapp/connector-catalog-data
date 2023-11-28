@@ -1,9 +1,9 @@
 {
     "slug": "youtube-analytics",
-    "logoUrl": "",
+    "logoUrl": "/sources/youtube.png",
     "name": "YouTube Analytics",
     "type": "Application",
     "aliases": [
-    "youtube"
+        "youtube"
     ]
 }

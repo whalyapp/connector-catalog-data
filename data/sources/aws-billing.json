@@ -1,0 +1,7 @@
+{
+    "slug": "aws-billing",
+    "logoUrl": "/sources/aws-billing.png",
+    "name": "AWS Billing",
+    "type": "Application",
+    "aliases": []
+}

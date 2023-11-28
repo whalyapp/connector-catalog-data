@@ -1,6 +1,6 @@
 {
     "slug": "netsuite-restlets",
-    "logoUrl": "",
+    "logoUrl": "/sources/netsuite.png",
     "name": "Netsuite RESTlets",
     "type": "Application",
     "aliases": []

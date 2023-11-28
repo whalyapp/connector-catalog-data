@@ -1,6 +1,6 @@
 {
     "slug": "netsuite-reporting",
-    "logoUrl": "",
+    "logoUrl": "/sources/netsuite.png",
     "name": "Netsuite Reporting",
     "type": "Application",
     "aliases": []
