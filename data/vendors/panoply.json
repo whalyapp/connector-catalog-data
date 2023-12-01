@@ -1,0 +1,11 @@
+{
+    "slug": "panoply",
+    "name": "Panoply by SQream",
+    "logoUrl": "/vendors/panoply.png",
+    "type": "SaaS",
+    "isOpenSource": false,
+    "website": "https://panoply.io",
+    "sources": [
+        "amazon-s3"
+    ]
+}
